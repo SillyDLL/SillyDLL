@@ -1,21 +1,25 @@
-# SillyDLL 🔒
+# 🔥 SillyDLL - The Ultimate DLL Injector 🔒  
 
-## What is SillyDLL? 🌈
-- [SillyDLL](https://sillydll.socials.lat) is a DLL Injector for almost any process. Just dont mess up the name!
+## What is SillyDLL? 🌈  
+[SillyDLL](https://sillydll.socials.lat) is a **lightning-fast, no-nonsense DLL injector** for almost any process. Just **make sure the name is correct**, or things might get... silly. 😏  
 
-## What have you tested? ⭐
-- (Counter Strike 2: cs2.exe) - Worked, with -insecure flag
-- (Roblox: RobloxPlayerBeta.exe) - Failed
-- (Opera GX: opera.exe) Instant Injection. - Success
+## Tested Applications ⭐  
+Here's what we've tested so far:  
 
-## How do i use it? ✅
-1. Install the latest [release](https://github.com/nebulal0l/SillyDLL/releases).
-2. Extract
-3. Run SillyDll.exe (No virus!)
-4. Done! Follow steps in the exe.
+✅ **Counter-Strike 2** (`cs2.exe`) – Works **with** the `-insecure` flag.  
+❌ **Roblox** (`RobloxPlayerBeta.exe`) – Nope, didn’t work.  
+⚡ **Opera GX** (`opera.exe`) – **Instant Injection.** Flawless.  
 
-## I need support! 📦
-- Contact dxs8 on discord!
+## How to Use ✅  
+Getting started is **easy**:  
 
-## Hope you enjoy! 🫂
-- I hope you enjoy SillyDll as much as i do.
+1. Download the latest **[release](https://github.com/nebulal0l/SillyDLL/releases)**.  
+2. Extract the files.  
+3. Run `SillyDLL.exe` (**No virus, I swear!** 🛡️).  
+4. Follow the steps inside the EXE. That's it! 🎉  
+
+## Need Help? 📦  
+Got questions? **Need support?** contact **dxs8** on Discord!  
+
+## Enjoy! 🫂  
+I hope you love **SillyDLL** as much as I do. Have fun injecting! 😎✨  
